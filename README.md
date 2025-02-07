@@ -135,5 +135,4 @@ Both models demonstrate robustness in handling multiclass imbalanced datasets an
 ### 🔗 References
 - [Microsoft GUIDE Dataset](https://www.kaggle.com/datasets/Microsoft/microsoft-security-incident-prediction) 
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
-- [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)
 
